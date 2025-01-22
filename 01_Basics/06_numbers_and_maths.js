@@ -17,6 +17,10 @@ console.log(hundreds.toLocaleString('en-IN')); //1,00,000 (output)
 
 
 
+/***************************************** Math ***************************************/
+
+
+console.log(Math);
 
 
 
